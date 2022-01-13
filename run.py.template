@@ -20,3 +20,5 @@ bathT = THERMOSTAT(ARGUMENTS)
 
 md.run(molecule=mol, qm=qm, thermostat=bathT, input_dir=INPUT_DIR)
 
+--------------test-----
+
